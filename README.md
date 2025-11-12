@@ -46,3 +46,7 @@ npm install
 
 ## Run Project
 npm run dev
+
+## env setup
+add Port 5000
+Atlas uri
